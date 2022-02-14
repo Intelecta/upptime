@@ -4,18 +4,20 @@
     "url": "https://intelecta.biz",
     "icon": "https://favicons.githubusercontent.com/intelecta.biz",
     "slug": "web-de-intelecta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2580,
-    "timeDay": 2822,
-    "timeWeek": 2580,
-    "timeMonth": 2580,
-    "timeYear": 2580,
-    "dailyMinutesDown": {}
+    "time": 4016,
+    "timeDay": 9164,
+    "timeWeek": 4016,
+    "timeMonth": 4016,
+    "timeYear": 4016,
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Super Admin - Inchcape",
