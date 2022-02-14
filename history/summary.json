@@ -4,19 +4,19 @@
     "url": "https://intelecta.biz",
     "icon": "https://favicons.githubusercontent.com/intelecta.biz",
     "slug": "web-de-intelecta",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4016,
-    "timeDay": 9164,
-    "timeWeek": 4016,
-    "timeMonth": 4016,
-    "timeYear": 4016,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 3961,
+    "timeDay": 7264,
+    "timeWeek": 3961,
+    "timeMonth": 3961,
+    "timeYear": 3961,
     "dailyMinutesDown": {
-      "2022-02-14": 0
+      "2022-02-14": 10
     }
   },
   {
